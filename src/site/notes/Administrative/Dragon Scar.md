@@ -5,6 +5,9 @@
 Home Page
 
 [[Fellio Dropletdrip \|Fellio Dropletdrip ]]
-[[Zalno Halno\|Zalno Halno]]
-[[Emi Kett\|Emi Kett]]
+[[Players/Kazim Ravim\|Kazim Ravim]]
+[[Players/Emi Kett\|Emi Kett]]
 [[Players/Hazakura Musa\|Hazakura Musa]]
+[[Zalno\|Zalno]]
+
+[[Administrative/Party Inventory\|Party Inventory]]
